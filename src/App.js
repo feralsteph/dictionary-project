@@ -17,7 +17,7 @@ function App() {
           <a
             href="https://github.com/feralsteph/dictionary-project"
             target="_blank"
-            rel="norefeffer"
+            rel="noreferrer"
           >
             Open-source code
           </a>{" "}
