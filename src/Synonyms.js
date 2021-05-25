@@ -12,7 +12,10 @@ export default function Synonyms(
           index
         ) {
           return (
-            <li key={index}>
+            <li
+              className="list"
+              key={index}
+            >
               {synonym}
             </li>
           );

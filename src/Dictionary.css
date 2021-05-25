@@ -3,6 +3,12 @@
   background-color: #f8eded;
 }
 
+.Dictionary h1 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
 .Dictionary section {
   background-color: #ffff;
   border-radius: 8px;
