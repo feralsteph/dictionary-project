@@ -1,7 +1,25 @@
 .Dictionary {
   padding: 0 70px;
+  background-color: #f8eded;
 }
 
-.Dictionary form {
-  padding: 20px;
+.Dictionary section {
+  background-color: #ffff;
+  border-radius: 8px;
+  box-shadow: 5px 5px 5px
+    rgba(0, 0, 0, 0.2);
+  padding: 30px;
+  margin: 20px;
+}
+
+.Dictionary input {
+  width: 100%;
+  border-radius: 3px;
+  border-color: gray;
+  opacity: 0.7;
+}
+
+.Dictionary .hint {
+  font-size: 11px;
+  margin-top: 5px;
 }
