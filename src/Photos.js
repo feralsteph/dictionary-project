@@ -27,7 +27,7 @@ export default function Photos(props) {
                       photo.src
                         .landscape
                     }
-                    alt="picture of word"
+                    alt="word"
                     className="img-fluid"
                   />
                 </a>
